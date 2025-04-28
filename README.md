@@ -1,2 +1,4 @@
 # Firestick_Under_Fire
-Exploitation of Firestick Weaknesses to Access Sensitive Data
+
+BootCon/Final Project
+Exploitation of Firestick Weaknesses to Access Sensitive Datain a simulated environment
